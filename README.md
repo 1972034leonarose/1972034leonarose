@@ -1,4 +1,4 @@
-- 👋 Hello World! I’m Leona.
+- 🌎 Hello World! I’m Leona.
 - 👀 I’m interested in software engineering.
 - 💞️ View my progress here!
 
