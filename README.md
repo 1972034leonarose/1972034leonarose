@@ -1,6 +1,7 @@
 - 🌎 Hello World! I’m Leona.
 - 👀 I’m interested in software engineering.
-- 💞️ View my progress here!
+- 💞️ View my learning progress here!
+- 😉 Small progress is still progress ~
 
 <!---
 1972034leonarose/1972034leonarose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
